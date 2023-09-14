@@ -3,4 +3,7 @@ public struct MyLibrary {
 
     public init() {
     }
+    public func first() -> String{
+        return "heyy hii"
+    }
 }
